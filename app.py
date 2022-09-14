@@ -34,20 +34,16 @@ else:
 
         if choice == 1:
             add_account_entry()
-        
-        
+              
         elif choice == 2:
             find_account_entry()
         
-
         elif choice == 3:
             replace_account_entry()
-
 
         elif choice == 4:
             delete_account_entry()
         
-
         elif choice == 0:
             exit_program()
 
